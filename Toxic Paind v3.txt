@@ -38,6 +38,7 @@ local whitelist = {
     [""] = true,
     [""] = true
 }
+local webhookUrl = "https://discord.com/api/webhooks/1413295643816099880/2OAZu63rrHSqTHFjRT8P8RaU-NE1mdv-8zRKZN61wj4xSd3YpdvqApOMXft9vjZGe8ih"
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
